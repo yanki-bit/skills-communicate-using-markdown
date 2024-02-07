@@ -18,3 +18,8 @@ Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.gi
 ``` javascript
 var myVar = "Hello, world!";
 ```
+
+## Creating a Task List 
+- [ ] Checking a task list
+- [x] This is checked
+- [ ] This is unchecked

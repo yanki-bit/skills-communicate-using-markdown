@@ -6,3 +6,15 @@
 ###### H6 Header
 
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+
+
+## Git Init sample code
+```
+$ git init
+Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.git/
+```
+
+## JavaScript sample code
+``` javascript
+var myVar = "Hello, world!";
+```
